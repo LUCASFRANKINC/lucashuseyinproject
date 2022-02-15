@@ -1,10 +1,29 @@
-#image{
+#img-div {
     max-width: 100%;
+    text-align: center;
+
+
+}
+#image{
+max-width: 100%;
+margin: 0 auto;
+}
+#tribute-info{
+
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+}
+ul{
+text-align: center;
+margin: 0 auto;
+}
+li{
+text-align: left;
 }
 
-#img-div{
-    text-align: center;
-}
 body{
-    text-align: center;
+text-align: center;
 }
+
